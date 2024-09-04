@@ -1,4 +1,4 @@
-function [LogLF, coeffs, sigmaforcast] = snsingleasympred(x0, Ret, n1, n2, d)
+function [LogLF, coeffs, sigmaforcast] = snsinglegarch(x0, Ret, n1, n2, d)
 % This function estimates parameters, conditional volatility and LLF for Skew-Normal Single-Regime GARCH model
 
 %x0: initial value/size(x0)=(1,6)

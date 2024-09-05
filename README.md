@@ -1,6 +1,6 @@
 NOTE: All results and inputs for each model including dataset, estimated parameters, conditional volatility, VaRs and VaR backtesting  are available for download in the file 'results.zip'. 
 
-To download results and dataset, open 'results.zip' and click on 'View raw'.
+To download results and dataset for Bitcoin and Ethereum, open 'results.zip' and click on 'View raw'.
 
 NOTE: To run the MATLAB codes, please follow steps below:
 

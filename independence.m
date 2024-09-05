@@ -7,7 +7,7 @@ function [LR_indep,pvalue_indep, exc_indep] = independence(Ret, VaR_short, VaR_l
 %cl: confidence level/ [0.99 0.975 0.95 0.90]
 %n1: estimation window
 % Outputs:
-% pvalue_indep - p-values for the independence test
+% pvalue_indep - p-values for the independence test in percentage
 % exc_indep - number of exceptions for independence test
 
 r = Ret(n1+1:end)'; % Returns for backtesting period

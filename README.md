@@ -1,3 +1,10 @@
+NOTE: All results and inputs for each model including dataset, estimated parameters, conditional volatility, VaRs and VaR backtesting  are available for download in the file 'results.zip'. 
+
+To download results, open 'results.zip' and click on 'View raw'.
+
+To run the MATLAB codes, please follow steps below:
+
+
 Step one: Parameters of models and conditional volatility are estimated by:
 
 'snmsgarch.m':Skew-Normal Markov-Switching GARCH
@@ -18,9 +25,7 @@ Step three: VaR results is backtested by:
 
 'christofferson.m': conditional coverage test 
 
-NOTE: All results for each model including estimated parameters, conditional volatility, VaRs and VaR backtesting  are available for download in the file 'results.zip'. 
 
-To download results, open 'results.zip' and click on 'View raw'
 
 
 

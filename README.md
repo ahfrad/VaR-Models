@@ -2,7 +2,7 @@ NOTE: All results and inputs for each model including dataset, estimated paramet
 
 To download results and dataset, open 'results.zip' and click on 'View raw'.
 
-To run the MATLAB codes, please follow steps below:
+NOTE: To run the MATLAB codes, please follow steps below:
 
 
 Step one: Parameters of models and conditional volatility are estimated by:

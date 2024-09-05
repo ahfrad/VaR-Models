@@ -1,6 +1,6 @@
 
 function [LogLF,coeffs,sigmaforcast]=snmsgarch(x0,Ret,n1,n2,d)
-% This function estimates parameters, conditional volatility and LLF for Skew-Normal Markov-Switchin GARCH model
+% This function estimates parameters, conditional volatility and LLF for Skew-Normal Markov-Switching GARCH model
 
 %x0: initial value/size(x0)=(1,11)
 %cl: confidence level/ [0.99 0.975 0.95 0.90]
